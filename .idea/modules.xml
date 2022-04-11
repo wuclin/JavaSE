@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Collection/Collection.iml" filepath="$PROJECT_DIR$/Collection/Collection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CollectionIterator/CollectionIterator.iml" filepath="$PROJECT_DIR$/CollectionIterator/CollectionIterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrentt/Concurrentt.iml" filepath="$PROJECT_DIR$/Concurrentt/Concurrentt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExtendDemo/ExtendDemo.iml" filepath="$PROJECT_DIR$/ExtendDemo/ExtendDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JUC/JUC.iml" filepath="$PROJECT_DIR$/JUC/JUC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JaveSE.iml" filepath="$PROJECT_DIR$/JaveSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LockDemo/LockDemo.iml" filepath="$PROJECT_DIR$/LockDemo/LockDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MThread/MThread.iml" filepath="$PROJECT_DIR$/MThread/MThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Reflect/Reflect.iml" filepath="$PROJECT_DIR$/Reflect/Reflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dProxy/dProxy.iml" filepath="$PROJECT_DIR$/dProxy/dProxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdk8/jdk8.iml" filepath="$PROJECT_DIR$/jdk8/jdk8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchroizedway/synchroizedway.iml" filepath="$PROJECT_DIR$/synchroizedway/synchroizedway.iml" />
+    </modules>
+  </component>
+</project>
